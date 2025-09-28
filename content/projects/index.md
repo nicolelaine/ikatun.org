@@ -15,7 +15,7 @@ description: "iKatun's projects."
 
 # Support for Art Projects {#art}
 
-iKatun support for these projects comes in various forms, including fiscal sponsorship, administrative support, software consulting & development, and financial support.
+iKatun's support for these projects comes in various forms, including fiscal sponsorship, administrative support, software consulting & development, and financial support.
 
 ### [The Institute for Infinitely Small Things](https://www.infinitelysmallthings.net/) (2004 - infinity)
 A performance research organization dedicated to inventing and distributing new ways to engage with the politics of everyday life. Artists: The Institute has between 15 - 25 members at any given point. Members include programmers, architects, artists, art historians, anthropologists, filmmakers and hula hoopers. [ see the [Institute's site](https://www.infinitelysmallthings.net/) for more projects ]
