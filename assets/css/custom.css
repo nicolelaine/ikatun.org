@@ -1,0 +1,12 @@
+.homepage-text {
+    text-align: justify;      /* Center the text */
+    color: #212427;         /* Change to any color */
+    font-size: 1.2em;         /* Optional: adjust font size */
+    max-width: 800px;         /* Optional: limit width */
+    margin: 0 auto;           /* Center block if width is limited */
+}
+
+/* Underline all links */
+a {
+  text-decoration: underline;
+}
