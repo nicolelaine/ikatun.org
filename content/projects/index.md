@@ -111,7 +111,7 @@ Artists Pages for Performance Research.
 ### [A Case for Boston as a Liquid And Not a Solid](/docs/bostonLiquid.pdf) (2006)
 Article presented at the 2006 College Art Association (CAA) Conference for the panel "Interrogating Boston as a Site for Contemporary Art" organized by Dr. Cynthia Fowler and Dr. Dena Gilby. Other panelists included Bill Arning, Jerry Beck, Christina Lanzl, Judith Leeman and Jessica Marks.
 
-### [Map-recipes and Body-Ovens: Entries for a Psychogeographic Dictionary]((/docs/Art-Machines-Body-Ovens-and-Map-Recipes.pdf)) (2006)
+### [Map-recipes and Body-Ovens: Entries for a Psychogeographic Dictionary](/docs/Art-Machines-Body-Ovens-and-Map-Recipes.pdf)) (2006)
 Article for [Cartographic Perspectives](https://cartographicperspectives.org) (Journal of the North American Cartographic Information Society). Special Issue on Art and Mapping. Issue 53, Winter 2006. Edited by Denis Wood and John Krygier. Artists and projects discussed include: Alex Villar, Brian DeRosia, Bureau D’Etudes, Cheryl l’Hirondelle, Glowlab, iKatun, Institute for Applied Autonomy, Institute for Infinitely Small Things, John Osorio-Buck & Matthew Ward, Lee Walton, María Bogadóttir and Malene Rordam, Mobilivre-Bookmobile, Natalie Loveless, Nomads+Residents, Shih-Chieh Huang, Sifting the Inner Belt & spurse.
 
 ### How to Make the Invisible Stay Invisible: Three Case Studies in Micropolitical Engineering (2005)
@@ -120,7 +120,7 @@ Published for the proceedings of the conference "The Sinues of the Present: Gene
 ### New Media is Mediumly Old (2004)
 Article for Issue #3 of Big, Red & Shiny surveying new media artists & organizationsin Boston, MA, with Turbulence.org.
 
-### [Interview with Giselle Beiguelman]((/docs/poetrica-critical-texts.pdf)) (2003)
+### [Interview with Giselle Beiguelman](/docs/poetrica-critical-texts.pdf)) (2003)
 Published on [rhizome.org](https://rhizome.org/) and [nettime](https://www.nettime.org/). December 8th, 2003. Giselle Beiguelman is a new media artist and multimedia essayist who teaches Digital Culture at the Graduation Program in Communication and Semiotics of PUC-SP (São Paulo, Brazil).
 
 [top](#top)
